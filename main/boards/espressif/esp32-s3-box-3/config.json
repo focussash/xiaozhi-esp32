@@ -11,7 +11,7 @@
                 "CONFIG_USE_CUSTOM_WAKE_WORD=y",
                 "CONFIG_CUSTOM_WAKE_WORD=\"tong xun yuan\"",
                 "CONFIG_CUSTOM_WAKE_WORD_DISPLAY=\"通讯员\"",
-                "CONFIG_CUSTOM_WAKE_WORD_THRESHOLD=15"
+                "CONFIG_CUSTOM_WAKE_WORD_THRESHOLD=20"
             ]
         }
     ]
